@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-author: "me, the stilish renegade"
+author: "me, the stilysh renegade"
 date: "2/7/2020"
 output: pdf_document
 ---
